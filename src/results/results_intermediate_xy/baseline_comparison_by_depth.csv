@@ -1,0 +1,4 @@
+p,qaoa_mean_objective,qaoa_std_objective,qaoa_best_objective,runs_beating_greedy,runs_beating_local_search,total_runs,fraction_beating_greedy,fraction_beating_local_search
+1,3.1677037670785633,0.0,3.167703767078563,0,0,11,0.0,0.0
+2,3.1677037670785633,0.0,3.167703767078563,0,0,11,0.0,0.0
+3,3.1677037670785633,0.0,3.167703767078563,0,0,11,0.0,0.0
